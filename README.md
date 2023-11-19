@@ -121,11 +121,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-12. Go to the access tab, set the department to System Adminstrators and the role to Supreme Admin. Add "Support" for extended access.
+12. Go to the access tab, set the department to System Adminstrators and the role to Supreme Admin. Under extended access add "Support" for the department and "Supreme Admin" for the role.
 </p>
 <p>
 <img width="962" alt="Screen Shot 2023-11-19 at 12 07 55 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/6b200236-e518-4e29-a7c0-16e226dc2cea">
-<img width="965" alt="Screen Shot 2023-11-19 at 4 45 30 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/2683316c-091a-424e-994a-60e51b7086c9">
+<img width="964" alt="Screen Shot 2023-11-19 at 4 50 18 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/980d64c0-8efc-42a8-92f7-0210b8e54808">
 </p>
 
 <p>
