@@ -150,6 +150,47 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="982" alt="Screen Shot 2023-11-19 at 12 20 30 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/684b7d69-4322-4f6d-9513-0ab7b5d48407">
 </p>
 
+
+
+<h3>Configure Users</h3>
+<p>
+15. In the agent panel, go to Users and click on add user. Enter in Karen Karen for the name and the email karen@osticket.com. Click on add user. 
+</p>
+<p>
+<img width="966" alt="Screen Shot 2023-11-19 at 2 20 31 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/3033a20a-3cc3-4857-8708-616e240a957e">
+<img width="644" alt="Screen Shot 2023-11-19 at 2 26 20 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/2dbc8038-345c-493b-8958-40fc945f9442">
+</p>
+
+<p>
+16. Repeat the same steps and create a new user Ken Ken with the email ken@osticket.com.
+</p>
+<p>
+<img width="648" alt="Screen Shot 2023-11-19 at 2 28 16 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/c1d6f0c9-4465-4471-84ce-c7824f66a764">
+</p>
+
+<h3>Configure Users</h3>
+<p>
+17. In the admin panel, go to manage and click on SLA. Click on add new SLA plan.
+</p>
+<p>
+<img width="969" alt="Screen Shot 2023-11-19 at 2 31 54 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/746788d0-485c-485c-9045-ce51566b4da8">
+<img width="963" alt="Screen Shot 2023-11-19 at 2 33 44 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/38ab8695-a344-4dc6-b29b-a30922382836">
+</p>
+
+<p>
+18. Enter SEV-A for the name, Grace period is 1 hour, and schedule is 24/7. Click add plan.
+</p>
+<p>
+<img width="950" alt="Screen Shot 2023-11-19 at 2 37 47 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/e04d5bc3-7f0f-45b3-a56b-ff97dd62b0ca">
+</p>
+
+<p>
+19. Enter SEV-B for the name, Grace period is 4 hours, and schedule is 24/7. Click add plan.
+</p>
+<p>
+<img width="956" alt="Screen Shot 2023-11-19 at 2 41 12 PM 1" src="https://github.com/Gleejr/post-install-config/assets/148407820/7c87d5c6-4e30-41cc-9fb7-5e2af1643dcc">
+</p>
+
 <br />
 
 
