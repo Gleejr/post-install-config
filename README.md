@@ -121,10 +121,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-12. Go to the access tab, set the department to System Adminstrators and the role to Supreme Admin.
+12. Go to the access tab, set the department to System Adminstrators and the role to Supreme Admin. Add "Support" for extended access.
 </p>
 <p>
 <img width="962" alt="Screen Shot 2023-11-19 at 12 07 55 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/6b200236-e518-4e29-a7c0-16e226dc2cea">
+<img width="965" alt="Screen Shot 2023-11-19 at 4 45 30 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/2683316c-091a-424e-994a-60e51b7086c9">
 </p>
 
 <p>
@@ -160,7 +161,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="648" alt="Screen Shot 2023-11-19 at 2 28 16 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/c1d6f0c9-4465-4471-84ce-c7824f66a764">
 </p>
 
-<h3>Configure Users</h3>
+<h3>Configure SLA</h3>
 <p>
 17. In the admin panel, go to manage and click on SLA. Click on add new SLA plan.
 </p>
