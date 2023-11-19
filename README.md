@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com/watch?v=HGywPhfKt4E)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -19,14 +19,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Configuration Steps</h2>
 
@@ -191,7 +183,53 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="956" alt="Screen Shot 2023-11-19 at 2 41 12 PM 1" src="https://github.com/Gleejr/post-install-config/assets/148407820/7c87d5c6-4e30-41cc-9fb7-5e2af1643dcc">
 </p>
 
+<p>
+20. Enter SEV-C for the name, Grace period is 8 hours, and schedule is Monday - Friday 8am - 5pm with US Holidays. Click add plan.
+</p>
+<p>
+<img width="963" alt="Screen Shot 2023-11-19 at 3 01 02 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/9a1cd2e9-39bd-4ea5-848a-5bd5a283b3ee">
+</p>
 <br />
+
+<h3>Configure Help Topics</h3>
+<p>
+21. In the admin panel, go to manage and click on help topics. Click on add new help topic.
+</p>
+<p>
+<img width="959" alt="Screen Shot 2023-11-19 at 3 06 54 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/d199a605-df12-4690-9cac-ac018cdbe9dc">
+<img width="967" alt="Screen Shot 2023-11-19 at 3 07 46 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/a49607e8-bdc1-4db5-a937-6425b83c2ee2">
+</p>
+
+<p>
+22. Enter "Business Critical Outage" as a topic and cick add topic.
+</p>
+<p>
+<img width="966" alt="Screen Shot 2023-11-19 at 3 11 28 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/95bf5386-6b3b-43ab-ad53-e469487f694a">
+</p>
+
+<p>
+23. Enter "Personal Computer Issues" as a topic and cick add topic.
+</p>
+<p>
+<img width="961" alt="Screen Shot 2023-11-19 at 3 14 16 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/d80db4a2-4ff7-4556-ac1e-354a43d7f8c6">
+</p>
+
+<p>
+24. Enter "Equipment Request" as a topic and cick add topic.
+</p>
+<p>
+<img width="969" alt="Screen Shot 2023-11-19 at 3 16 12 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/814d1f86-9311-47a0-8729-c014dddcaeb3">
+</p>
+
+<p>
+25. Enter "Password Reset" as a topic and cick add topic.
+</p>
+<p>
+<img width="963" alt="Screen Shot 2023-11-19 at 3 17 29 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/7496f30a-0dff-4b16-9cc8-83b8037e3788">
+</p>
+
+
+
 
 
 
