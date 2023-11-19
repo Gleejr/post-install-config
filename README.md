@@ -128,6 +128,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="650" alt="Screen Shot 2023-11-18 at 1 59 51 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/0b2a42cf-469d-4852-95eb-5bfc23dc3895">
 </p>
 
+<p>
+12. Go to the access tab, set the department to System Adminstrators and the role to Supreme Admin.
+</p>
+<p>
+<img width="962" alt="Screen Shot 2023-11-19 at 12 07 55 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/6b200236-e518-4e29-a7c0-16e226dc2cea">
+</p>
+
+<p>
+13. Go to the teams tab, assign the agent to the Level II Support, and click on create.
+</p>
+<p>
+<img width="982" alt="Screen Shot 2023-11-19 at 12 12 50 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/d7bba9bc-9227-4563-83da-810913571bb5">
+</p>
+
+<p>
+14. Repeat the same steps to create another agent (john doe/username:john.doe). Assign this agent to support department, all access for roles, and support for extended access.
+</p>
+<p>
+<img width="962" alt="Screen Shot 2023-11-19 at 12 18 30 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/e7fcd2c3-9170-4421-8606-0739b5ea8840">
+<img width="982" alt="Screen Shot 2023-11-19 at 12 20 30 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/684b7d69-4322-4f6d-9513-0ab7b5d48407">
+</p>
 
 <br />
 
