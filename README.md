@@ -23,14 +23,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-1. This is a continuation from osTicket - Prerequisites and Installation https://github.com/Gleejr/osticket-prereqs once osTicket has been successfully installed. 
+1. This is a continuation from osTicket - Prerequisites and Installation, available at https://github.com/Gleejr/osticket-prereqs. Once osTicket has been successfully installed, you can proceed with the next steps.
 </p>
 <p>
 <img width="777" alt="Screen Shot 2023-11-17 at 10 20 24 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/5f890a1d-6742-4001-a6d8-6e36984969c1">
 </p>
 
 <p>
-2. Login to osTicket using this "link http://localhost/osTicket/scp/login.php". Use the user_admin account that was created with the password1234. This will bring you inside osTicket.
+2. Log in to osTicket by following this link: http://localhost/osTicket/scp/login.php. Use the 'user_admin' account that was created, with the password 'Password1234'. This will take you to the osTicket dashboard.
 <p>
 <img width="618" alt="Screen Shot 2023-11-17 at 10 25 59 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/0e817fd3-3cca-49f5-b70d-a02fcc2b643e">
 <img width="1003" alt="Screen Shot 2023-11-17 at 10 27 54 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/956a2670-10c9-4dab-9e77-68d25fd55909">
@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Roles</h3>
 <p>
-3. In the admin panel click on agents, click on roles. and select add a new role.
+3. In the admin panel, click on 'Agents,' then select 'Roles,' and click on 'Add a New Role.'
 </p>
 <p>
 <img width="954" alt="Screen Shot 2023-11-17 at 10 37 13 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/0b2d0a2f-7ba6-4934-8624-781f015c5346">
@@ -47,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-4. Name this role "Supreme Admin" and under permissions check every box. Click add role to finish.
+4. Name this role 'Supreme Admin' and, under permissions, check every box. Click 'Add Role' to finish.
 </p>
 <p>
 <img width="963" alt="Screen Shot 2023-11-17 at 10 47 52 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/a8c54f4a-dafe-45ef-acf4-49bcae6523da">
@@ -56,7 +56,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Departments</h3>
 <p>
-5. In the admin panel, in the agents tab click departments and add a new department.
+5. In the admin panel, navigate to the 'Agents' tab, click on 'Departments,' and add a new department.
 </p>
 <p>
 <img width="964" alt="Screen Shot 2023-11-17 at 10 53 40 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/d661d400-93a4-46a1-b53f-33091138948a">
@@ -64,7 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-6. Input the name "System Administrators", leave everything else on default, and click "create Department".
+6. Enter the name 'System Administrators,' leave everything else as default, and click 'Create Department.'
 </p>
 <p>
 <img width="1440" alt="Screen Shot 2023-11-17 at 10 59 38 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/9bd9aff6-fa67-4cda-bd46-8dff9db02cf3">
@@ -73,7 +73,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Teams</h3>
 <p>
-7. In the admin panel, in the agents tab click on teams and click on add new team.
+7. In the admin panel, go to the 'Agents' tab, click on 'Teams,' and then select 'Add New Team.'
 </p>
 <p>
 <img width="852" alt="Screen Shot 2023-11-18 at 1 32 22 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/2ac6aad5-d8a2-45a1-81ac-29f78bbc6f8c">
@@ -81,7 +81,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-8. Input the name "Level II Support", add yourself to the team, and click on "create team".
+8. Enter the name 'Level II Support,' add yourself to the team, and click on 'Create Team.'
 </p>
 <p>
 <img width="890" alt="Screen Shot 2023-11-18 at 1 37 52 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/21c7390b-fd44-4fe6-8caf-93ea2df6b748">
@@ -90,7 +90,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Allow anyone to make tickets</h3>
 <p>
-9. In the admin panel, go to setting and scroll down to users. Make sure "Require registration and login to create tickets" is unchecked. This will allow anyone to create tickets anonymously.
+9. In the admin panel, navigate to 'Settings' and scroll down to 'Users.' Ensure that 'Require registration and login to create tickets' is unchecked. This will allow anyone to create tickets anonymously.
 </p>
 <p>
 <img width="835" alt="Screen Shot 2023-11-18 at 1 44 52 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/c9dbd089-fd63-48b4-be37-ea6d45c5fca2">
@@ -100,28 +100,28 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Agents</h3>
 <p>
-9. In the admin panel, in the agents tab click on add new agent. 
+9. In the admin panel, go to the 'Agents' tab and click on 'Add New Agent.'
 </p>
 <p>
 <img width="930" alt="Screen Shot 2023-11-18 at 1 51 57 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/770f6bbe-1502-4f3f-896b-67e8ec7e6446">
 </p>
 
 <p>
-10. Enter the name of the agent (Jane Doe), the email (jane.doe@osticket.com), and the username (jane.doe). Click on set password.
+10. Enter the name of the agent (Jane Doe), the email (jane.doe@osticket.com), and the username (jane.doe). Click on 'Set Password.'
 </p>
 <p>
 <img width="917" alt="Screen Shot 2023-11-18 at 1 55 33 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/f8939548-ca9e-4ab4-8703-3f53d2156164">
 </p>
 
 <p>
-11. Uncheck "Send the agent a password reset email", Enter a password for this agent, uncheck "Require password change at next login", and click on set. 
+11. Uncheck 'Send the agent a password reset email,' enter a password for this agent, uncheck 'Require password change at next login,' and click on 'Set.'
 </p>
 <p>
 <img width="650" alt="Screen Shot 2023-11-18 at 1 59 51 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/0b2a42cf-469d-4852-95eb-5bfc23dc3895">
 </p>
 
 <p>
-12. Go to the access tab, set the department to System Adminstrators and the role to Supreme Admin. Under extended access add "Support" for the department and "Supreme Admin" for the role.
+12. Go to the 'Access' tab, set the department to 'System Administrators' and the role to 'Supreme Admin.' Under extended access, add 'Support' for the department and 'Supreme Admin' for the role.
 </p>
 <p>
 <img width="962" alt="Screen Shot 2023-11-19 at 12 07 55 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/6b200236-e518-4e29-a7c0-16e226dc2cea">
@@ -129,14 +129,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-13. Go to the teams tab, assign the agent to the Level II Support, and click on create.
+13. Navigate to the 'Teams' tab, assign the agent to 'Level II Support,' and click on 'Create.'
 </p>
 <p>
 <img width="982" alt="Screen Shot 2023-11-19 at 12 12 50 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/d7bba9bc-9227-4563-83da-810913571bb5">
 </p>
 
 <p>
-14. Repeat the same steps to create another agent (john doe/username:john.doe). Assign this agent to support department, all access for roles, and support for extended access.
+14. Repeat the same steps to create another agent (John Doe/username: john.doe, email: john.doe@osticket.com). Assign this agent to the 'Support' department, grant all access for roles, and set 'Support' for extended access.
 </p>
 <p>
 <img width="962" alt="Screen Shot 2023-11-19 at 12 18 30 AM" src="https://github.com/Gleejr/post-install-config/assets/148407820/e7fcd2c3-9170-4421-8606-0739b5ea8840">
@@ -147,7 +147,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Users</h3>
 <p>
-15. In the agent panel, go to Users and click on add user. Enter in Karen Karen for the name and the email karen@osticket.com. Click on add user. 
+15. In the agent panel, navigate to 'Users' and click on 'Add User.' Enter 'Karen Karen' for the name and the email 'karen@osticket.com.' Click on 'Add User.'
 </p>
 <p>
 <img width="966" alt="Screen Shot 2023-11-19 at 2 20 31 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/3033a20a-3cc3-4857-8708-616e240a957e">
@@ -155,7 +155,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-16. Repeat the same steps and create a new user Ken Ken with the email ken@osticket.com.
+16. Repeat the same steps to create a new user. Enter 'Ken Ken' for the name and the email 'ken@osticket.com.' Click on 'Add User.'
 </p>
 <p>
 <img width="648" alt="Screen Shot 2023-11-19 at 2 28 16 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/c1d6f0c9-4465-4471-84ce-c7824f66a764">
@@ -163,7 +163,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure SLA</h3>
 <p>
-17. In the admin panel, go to manage and click on SLA. Click on add new SLA plan.
+17. In the admin panel, navigate to 'Manage' and click on 'SLA.' Then, click on 'Add New SLA Plan.'
 </p>
 <p>
 <img width="969" alt="Screen Shot 2023-11-19 at 2 31 54 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/746788d0-485c-485c-9045-ce51566b4da8">
@@ -171,21 +171,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-18. Enter SEV-A for the name, Grace period is 1 hour, and schedule is 24/7. Click add plan.
+18. Enter 'SEV-A' for the name, set the grace period to 1 hour, and choose a 24/7 schedule. Click 'Add Plan.'
 </p>
 <p>
 <img width="950" alt="Screen Shot 2023-11-19 at 2 37 47 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/e04d5bc3-7f0f-45b3-a56b-ff97dd62b0ca">
 </p>
 
 <p>
-19. Enter SEV-B for the name, Grace period is 4 hours, and schedule is 24/7. Click add plan.
+19. Enter 'SEV-B' for the name, set the grace period to 4 hours, and choose a 24/7 schedule. Click 'Add Plan.'
 </p>
 <p>
 <img width="956" alt="Screen Shot 2023-11-19 at 2 41 12 PM 1" src="https://github.com/Gleejr/post-install-config/assets/148407820/7c87d5c6-4e30-41cc-9fb7-5e2af1643dcc">
 </p>
 
 <p>
-20. Enter SEV-C for the name, Grace period is 8 hours, and schedule is Monday - Friday 8am - 5pm with US Holidays. Click add plan.
+20. Enter 'SEV-C' for the name, set the grace period to 8 hours, and choose a schedule of Monday - Friday, 8 am - 5 pm, including US Holidays. Click 'Add Plan.'
 </p>
 <p>
 <img width="963" alt="Screen Shot 2023-11-19 at 3 01 02 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/9a1cd2e9-39bd-4ea5-848a-5bd5a283b3ee">
@@ -194,7 +194,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Help Topics</h3>
 <p>
-21. In the admin panel, go to manage and click on help topics. Click on add new help topic.
+21. In the admin panel, navigate to 'Manage' and click on 'Help Topics.' Then, click on 'Add New Help Topic.'
 </p>
 <p>
 <img width="959" alt="Screen Shot 2023-11-19 at 3 06 54 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/d199a605-df12-4690-9cac-ac018cdbe9dc">
@@ -202,28 +202,28 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-22. Enter "Business Critical Outage" as a topic and cick add topic.
+22. Enter 'Business Critical Outage' as the topic and click 'Add Topic.'"
 </p>
 <p>
 <img width="966" alt="Screen Shot 2023-11-19 at 3 11 28 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/95bf5386-6b3b-43ab-ad53-e469487f694a">
 </p>
 
 <p>
-23. Enter "Personal Computer Issues" as a topic and cick add topic.
+23. Enter 'Personal Computer Issues' as the topic and click 'Add Topic.'
 </p>
 <p>
 <img width="961" alt="Screen Shot 2023-11-19 at 3 14 16 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/d80db4a2-4ff7-4556-ac1e-354a43d7f8c6">
 </p>
 
 <p>
-24. Enter "Equipment Request" as a topic and cick add topic.
+24. Enter 'Equipment Request' as the topic and click 'Add Topic.'
 </p>
 <p>
 <img width="969" alt="Screen Shot 2023-11-19 at 3 16 12 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/814d1f86-9311-47a0-8729-c014dddcaeb3">
 </p>
 
 <p>
-25. Enter "Password Reset" as a topic and cick add topic.
+25. Enter 'Password Reset' as the topic and click 'Add Topic.'
 </p>
 <p>
 <img width="963" alt="Screen Shot 2023-11-19 at 3 17 29 PM" src="https://github.com/Gleejr/post-install-config/assets/148407820/7496f30a-0dff-4b16-9cc8-83b8037e3788">
