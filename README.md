@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+In this detailed tutorial, we go beyond the initial installation and delve into the intricacies of the post-install configuration for osTicket, an open-source help desk ticketing system. While the installation lays the foundation, the post-install configuration phase is equally crucial for optimizing the system to meet specific organizational needs. The tutorial takes a comprehensive approach, systematically guiding users through the various configuration options available in osTicket. It explores customization settings, user management, email integration, and other essential aspects that contribute to tailoring osTicket to unique workflow requirements. By thoroughly addressing the post-install configuration process, this tutorial aims to empower users with a nuanced understanding of how to fine-tune osTicket for enhanced functionality and seamless integration within their help desk environment.<br />
 
 
 <h2>Video Demonstration</h2>
